@@ -1,0 +1,121 @@
+CustomerID,Country,Company,ContactName
+A_1,USA,Company A,Anna Bedecs
+A_10,USA,Company J,Roland Wacker
+A_11,USA,Company K,Peter Krschne
+A_12,USA,Company L,John Edwards
+A_13,USA,Company M,Andre Ludick
+A_14,USA,Company N,Carlos Grilo
+A_15,USA,Company O,Helena Kupkova
+A_16,USA,Company P,Daniel Goldschmidt
+A_17,USA,Company Q,Jean Philippe Bagel
+A_18,USA,Company R,Catherine Autier Miconi
+A_19,USA,Company S,Alexander Eggerer
+A_2,USA,Company B,Antonio Gratacos Solsona
+A_20,USA,Company T,George Li
+A_21,USA,Company U,Bernard Tham
+A_22,USA,Company V,Luciana Ramos
+A_23,USA,Company W,Michael Entin
+A_24,USA,Company X,Jonas Hasselberg
+A_25,USA,Company Y,John Rodman
+A_26,USA,Company Z,Run Liu
+A_27,USA,Company AA,Karen Toh
+A_28,USA,Company BB,Amritansh Raghav
+A_29,USA,Company CC,Soo Jung Lee
+A_3,USA,Company C,Thomas Axen
+A_4,USA,Company D,Christina Lee
+A_5,USA,Company E,Martin O’Donnell
+A_6,USA,Company F,Francisco Pérez-Olaeta
+A_7,USA,Company G,Ming-Yang Xie
+A_8,USA,Company H,Elizabeth Andersen
+A_9,USA,Company I,Sven Mortensen
+S_0,Germany,Alfreds Futterkiste,Maria Anders
+S_1,Mexico,Ana Trujillo Emparedados y helados,Ana Trujillo
+S_10,UK,B's Beverages,Victoria Ashworth
+S_11,Argentina,Cactus Comidas para llevar,Patricio Simpson
+S_12,Mexico,Centro comercial Moctezuma,Francisco Chang
+S_13,Switzerland,Chop-suey Chinese,Yang Wang
+S_14,Brazil,Comércio Mineiro,Pedro Afonso
+S_15,UK,Consolidated Holdings,Elizabeth Brown
+S_16,Germany,Drachenblut Delikatessen,Sven Ottlieb
+S_17,France,Du monde entier,Janine Labrune
+S_18,UK,Eastern Connection,Ann Devon
+S_19,Austria,Ernst Handel,Roland Mendel
+S_2,Mexico,Antonio Moreno Taquería,Antonio Moreno
+S_20,Brazil,Familia Arquibaldo,Aria Cruz
+S_21,Spain,FISSA Fabrica Inter. Salchichas S.A.,Diego Roel
+S_22,France,Folies gourmandes,Martine Rancé
+S_23,Sweden,Folk och fä HB,Maria Larsson
+S_24,Germany,Frankenversand,Peter Franken
+S_25,France,France restauration,Carine Schmitt
+S_26,Italy,Franchi S.p.A.,Paolo Accorti
+S_27,Portugal,Furia Bacalhau e Frutos do Mar,Lino Rodriguez
+S_28,Spain,Galería del gastrónomo,Eduardo Saavedra
+S_29,Spain,Godos Cocina Típica,José Pedro Freyre
+S_3,UK,Around the Horn,Thomas Hardy
+S_30,Brazil,Gourmet Lanchonetes,André Fonseca
+S_31,USA,Great Lakes Food Market,Howard Snyder
+S_32,Venezuela,GROSELLA-Restaurante,Manuel Pereira
+S_33,Brazil,Hanari Carnes,Mario Pontes
+S_34,Venezuela,HILARION-Abastos,Carlos Hernández
+S_35,USA,Hungry Coyote Import Store,Yoshi Latimer
+S_36,Ireland,Hungry Owl All-Night Grocers,Patricia McKenna
+S_37,UK,Island Trading,Helen Bennett
+S_38,Germany,Königlich Essen,Philip Cramer
+S_39,France,La corne d'abondance,Daniel Tonini
+S_4,Sweden,Berglunds snabbköp,Christina Berglund
+S_40,France,La maison d'Asie,Annette Roulet
+S_41,Canada,Laughing Bacchus Wine Cellars,Yoshi Tannamuri
+S_42,USA,Lazy K Kountry Store,John Steel
+S_43,Germany,Lehmanns Marktstand,Renate Messner
+S_44,USA,Let's Stop N Shop,Jaime Yorres
+S_45,Venezuela,LILA-Supermercado,Carlos González
+S_46,Venezuela,LINO-Delicateses,Felipe Izquierdo
+S_47,USA,Lonesome Pine Restaurant,Fran Wilson
+S_48,Italy,Magazzini Alimentari Riuniti,Giovanni Rovelli
+S_49,Belgium,Maison Dewey,Catherine Dewey
+S_5,Germany,Blauer See Delikatessen,Hanna Moos
+S_50,Canada,Mère Paillarde,Jean Fresnière
+S_51,Germany,Morgenstern Gesundkost,Alexander Feuer
+S_52,UK,North/South,Simon Crowther
+S_53,Argentina,Océano Atlántico Ltda.,Yvonne Moncada
+S_54,USA,Old World Delicatessen,Rene Phillips
+S_55,Germany,Ottilies Käseladen,Henriette Pfalzheim
+S_56,France,Paris spécialités,Marie Bertrand
+S_57,Mexico,Pericles Comidas clásicas,Guillermo Fernández
+S_58,Austria,Piccolo und mehr,Georg Pipps
+S_59,Portugal,Princesa Isabel Vinhos,Isabel de Castro
+S_6,France,Blondesddsl père et fils,Frédérique Citeaux
+S_60,Brazil,Que Delícia,Bernardo Batista
+S_61,Brazil,Queen Cozinha,Lúcia Carvalho
+S_62,Germany,QUICK-Stop,Horst Kloss
+S_63,Argentina,Rancho grande,Sergio Gutiérrez
+S_64,USA,Rattlesnake Canyon Grocery,Paula Wilson
+S_65,Italy,Reggiani Caseifici,Maurizio Moroni
+S_66,Brazil,Ricardo Adocicados,Janete Limeira
+S_67,Switzerland,Richter Supermarkt,Michael Holz
+S_68,Spain,Romero y tomillo,Alejandra Camino
+S_69,Norway,Santé Gourmet,Jonas Bergulfsen
+S_7,Spain,Bólido Comidas preparadas,Martín Sommer
+S_70,USA,Save-a-lot Markets,Jose Pavarotti
+S_71,UK,Seven Seas Imports,Hari Kumar
+S_72,Denmark,Simons bistro,Jytte Petersen
+S_73,France,Spécialités du monde,Dominique Perrier
+S_74,USA,Split Rail Beer & Ale,Art Braunschweiger
+S_75,Belgium,Suprêmes délices,Pascale Cartrain
+S_76,USA,The Big Cheese,Liz Nixon
+S_77,USA,The Cracker Box,Liu Wong
+S_78,Germany,Toms Spezialitäten,Karin Josephs
+S_79,Mexico,Tortuga Restaurante,Miguel Angel Paolino
+S_8,France,Bon app',Laurence Lebihan
+S_80,Brazil,Tradição Hipermercados,Anabela Domingues
+S_81,USA,Trail's Head Gourmet Provisioners,Helvetius Nagy
+S_82,Denmark,Vaffeljernet,Palle Ibsen
+S_83,France,Victuailles en stock,Mary Saveley
+S_84,France,Vins et alcools Chevalier,Paul Henriot
+S_85,Germany,Die Wandernde Kuh,Rita Müller
+S_86,Finland,Wartian Herkku,Pirkko Koskitalo
+S_87,Brazil,Wellington Importadora,Paula Parente
+S_88,USA,White Clover Markets,Karl Jablonski
+S_89,Finland,Wilman Kala,Matti Karttunen
+S_9,Canada,Bottom-Dollar Markets,Elizabeth Lincoln
+S_90,Poland,Wolski  Zajazd,Zbyszek Piestrzeniewicz
